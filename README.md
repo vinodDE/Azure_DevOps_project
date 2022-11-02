@@ -1,11 +1,12 @@
 # Overview
 
-<TODO: complete this with an overview of your project>
+This project is to build and demonstarate the capabilities of CI/CD pipelines using Azure and git technologies/tools and following agile methodologies. 
 
 ## Project Plan
 <TODO: Project Plan
 
-* A link to a Trello board for the project
+https://trello.com/b/VWo4Dkj5/azuredevopsproject
+
 * A link to a spreadsheet that includes the original and final project plan>
 
 ## Instructions
