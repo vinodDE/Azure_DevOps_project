@@ -3,18 +3,22 @@
 This project is to build and demonstarate the capabilities of CI/CD pipelines using Azure and git technologies/tools and following agile methodologies. 
 
 ## Project Plan
-<TODO: Project Plan
 
+please see below trello board and spreadhseet to go through the project plan and timelines.
 https://trello.com/b/VWo4Dkj5/azuredevopsproject
 
 * A link to a spreadsheet that includes the original and final project plan>
 
 ## Instructions
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
+Architectural Diagram:
+
+![image](https://user-images.githubusercontent.com/116422392/199620324-cb4a5355-931c-4a1d-b5c8-6b3f4ee4a6e7.png)
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+
+
+
 
 * Project running on Azure App Service
 
