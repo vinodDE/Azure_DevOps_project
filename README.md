@@ -1,5 +1,7 @@
 # Overview
 
+[![Python application test with Github Actions](https://github.com/vinodDE/Azure_DevOps_project/actions/workflows/python_app.yml/badge.svg)](https://github.com/vinodDE/Azure_DevOps_project/actions/workflows/python_app.yml)
+
 This project is to build and demonstarate the capabilities of CI/CD pipelines using Azure and git technologies/tools and following agile methodologies. 
 
 ## Project Plan
