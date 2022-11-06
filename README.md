@@ -73,11 +73,10 @@ Architectural Diagram:
 
   ![image](https://user-images.githubusercontent.com/116422392/200183045-a20e2505-0e11-4300-aeb8-2f39708b6551.png)
 
-    ![image](https://user-images.githubusercontent.com/116422392/200183597-55a39951-afef-400f-942c-034b1a8b8ced.png)
-  
+   
   5) Creating and deploying azure pipeline
   
-    ![image](https://user-images.githubusercontent.com/116422392/200183735-1fbd6fea-4823-4b51-a017-c0b0b1d68473.png)
+  
     
    
   Successful run from azure pipeline
