@@ -31,22 +31,13 @@ Architectural Diagram:
 ![image](https://user-images.githubusercontent.com/116422392/200164693-2eaefa20-0e23-4761-9414-86a9d5d841fe.png)
 ![image](https://user-images.githubusercontent.com/116422392/200162717-f5f4c639-f46e-43ae-9ebf-7e016ee5f5c1.png)
 ![image](https://user-images.githubusercontent.com/116422392/200164762-d5fba4ad-5783-427e-bd6e-2fd3beb9e4c0.png)
+
+3) deploy webapp using azure cloud shell
 ![image](https://user-images.githubusercontent.com/116422392/200165719-77bf97cd-9e9d-4456-a9b6-42f2a8fdd94a.png)
 
+![image](https://user-images.githubusercontent.com/116422392/200173955-40b79911-bd00-4785-aeaf-5979a06c531f.png)
+![image](https://user-images.githubusercontent.com/116422392/200173977-1a0688bc-80ff-48a9-9bbe-4c431c2148af.png)
 
-
-
-3) run make all and make sure that all tests run fine
-4) 
-
-
-* Project running on Azure App Service
-
-* Project cloned into Azure Cloud Shell
-
-* Passing tests that are displayed after running the `make all` command from the `Makefile`
-
-* Output of a test run
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
