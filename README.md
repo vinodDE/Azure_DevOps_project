@@ -20,7 +20,14 @@ Architectural Diagram:
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
+## Steps 
 
+1) create a project in github.com and create makefile, requirement.txt, readme.md and others as required.
+2) connect to cloud shell and clone project from git
+![image](https://user-images.githubusercontent.com/116422392/200162495-606ec3ef-1f5a-49df-9468-952dbdb4d4f5.png)
+
+3) run make all and make sure that all tests run fine
+4) 
 
 
 * Project running on Azure App Service
