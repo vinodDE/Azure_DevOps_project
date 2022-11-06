@@ -25,6 +25,13 @@ Architectural Diagram:
 1) create a project in github.com and create makefile, requirement.txt, readme.md and others as required.
 2) connect to cloud shell and clone project from git
 ![image](https://user-images.githubusercontent.com/116422392/200162495-606ec3ef-1f5a-49df-9468-952dbdb4d4f5.png)
+![image](https://user-images.githubusercontent.com/116422392/200162609-a8671373-8a9d-4544-aeb1-6801c89db11c.png)
+![image](https://user-images.githubusercontent.com/116422392/200164693-2eaefa20-0e23-4761-9414-86a9d5d841fe.png)
+![image](https://user-images.githubusercontent.com/116422392/200162717-f5f4c639-f46e-43ae-9ebf-7e016ee5f5c1.png)
+![image](https://user-images.githubusercontent.com/116422392/200164762-d5fba4ad-5783-427e-bd6e-2fd3beb9e4c0.png)
+![image](https://user-images.githubusercontent.com/116422392/200165049-b172aa25-09f7-4c1b-be8a-3e3b44c49e33.png)
+
+
 
 3) run make all and make sure that all tests run fine
 4) 
