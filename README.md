@@ -39,6 +39,23 @@ Architectural Diagram:
 ![image](https://user-images.githubusercontent.com/116422392/200173977-1a0688bc-80ff-48a9-9bbe-4c431c2148af.png)
 
 
+4) setting up Azure pipelines and deploying webapp
+  - log into https://dev.azure.com/ and create an organization and a project and setup service connetion.
+  ![image](https://user-images.githubusercontent.com/116422392/200174832-f8ef8adc-d945-4ba9-a311-f32ecaea167c.png)
+  
+  - Install/enable the Azure Pipeline marketplace app and allow azure pipeline to access to all repos in github
+  ![image](https://user-images.githubusercontent.com/116422392/200176133-e361b0fe-9a04-451d-9975-cfcc7a50aea7.png)
+  ![image](https://user-images.githubusercontent.com/116422392/200176107-efa0b239-8ed3-408d-a7e9-324879ce62cf.png)
+
+  - create azure pipeline agent
+    
+    create a PAT(personal access token) using https://dev.azure.com/ home and click on the top-right user icon, as shown below.
+    ![image](https://user-images.githubusercontent.com/116422392/200179907-5c77518a-9318-4899-b8e3-7bb87bf0fd75.png)
+    
+  
+  
+
+
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
 * Running Azure App Service from Azure Pipelines automatic deployment
