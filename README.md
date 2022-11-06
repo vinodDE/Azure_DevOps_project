@@ -39,7 +39,7 @@ Architectural Diagram:
 ![image](https://user-images.githubusercontent.com/116422392/200173977-1a0688bc-80ff-48a9-9bbe-4c431c2148af.png)
 
 
-4) setting up Azure pipelines and deploying webapp
+4) creating and setting up Azure pipelines and deploying sef hosted agent
   - log into https://dev.azure.com/ and create an organization and a project and setup service connetion.
   ![image](https://user-images.githubusercontent.com/116422392/200174832-f8ef8adc-d945-4ba9-a311-f32ecaea167c.png)
   
@@ -66,41 +66,22 @@ Architectural Diagram:
     - restart VM
  
     Go to the DevOps portal, and open the newly created Agent pool to add a new agent and follow below steps afrer logging back into VM.
-  
     
+    ![image](https://user-images.githubusercontent.com/116422392/200183534-48f07df2-37aa-4138-9104-2cf1be1d890a.png)
+   
   ![image](https://user-images.githubusercontent.com/116422392/200182998-fecfa0f8-28fd-48d3-a541-1adb433c38c2.png)
 
   ![image](https://user-images.githubusercontent.com/116422392/200183045-a20e2505-0e11-4300-aeb8-2f39708b6551.png)
 
-    
-    
-    
+    ![image](https://user-images.githubusercontent.com/116422392/200183597-55a39951-afef-400f-942c-034b1a8b8ced.png)
   
+  5) Creating and deploying azure pipeline
+  
+    ![image](https://user-images.githubusercontent.com/116422392/200183735-1fbd6fea-4823-4b51-a017-c0b0b1d68473.png)
+    
+   
+  Successful run from azure pipeline
+  
+  ![image](https://user-images.githubusercontent.com/116422392/200184867-8e920e0d-3f53-4f18-8ff7-4de2e5c50fba.png)
 
-
-* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
-
-* Running Azure App Service from Azure Pipelines automatic deployment
-
-* Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
-The output should look similar to this:
-
-```bash
-udacity@Azure:~$ ./make_predict_azure_app.sh
-Port: 443
-{"prediction":[20.35373177134412]}
-```
-
-* Output of streamed log files from deployed application
-
-> 
-
-## Enhancements
-
-<TODO: A short description of how to improve the project in the future>
-
-## Demo 
-
-<TODO: Add link Screencast on YouTube>
-
-
+  ![image](https://user-images.githubusercontent.com/116422392/200185839-aa88fcdb-e831-409c-aae8-594743f9d723.png)
