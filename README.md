@@ -35,7 +35,10 @@ Architectural Diagram:
 ![image](https://user-images.githubusercontent.com/116422392/200165719-77bf97cd-9e9d-4456-a9b6-42f2a8fdd94a.png)
 
 ![image](https://user-images.githubusercontent.com/116422392/200173955-40b79911-bd00-4785-aeaf-5979a06c531f.png)
+
 ![image](https://user-images.githubusercontent.com/116422392/200173977-1a0688bc-80ff-48a9-9bbe-4c431c2148af.png)
+
+![image](https://user-images.githubusercontent.com/116422392/200187772-2cbdbee4-6c69-426b-93da-81c218f99704.png)
 
 
 4) creating and setting up Azure pipelines and deploying sef hosted agent
