@@ -49,10 +49,32 @@ Architectural Diagram:
 
   - create azure pipeline agent
     
-    create a PAT(personal access token) using https://dev.azure.com/ home and click on the top-right user icon, as shown below.
+    create a PAT(personal access token) using https://dev.azure.com/ home and click on the top-right user icon, as shown below. once PAT created, make sure to copy  and save it.
+    
     ![image](https://user-images.githubusercontent.com/116422392/200179907-5c77518a-9318-4899-b8e3-7bb87bf0fd75.png)
     
+    Create an agent pool from project settings
+    
+    ![image](https://user-images.githubusercontent.com/116422392/200180212-ef30627a-297a-4aef-b501-e803ea673a90.png)
+
+    Create a VM from azure portal and configure the VM as azure devops build agent using below steps
+    
+    - ssh <username>@<serverpublicip>
+    - sudo snap install docker
+    - sudo groupadd docker
+    - sudo usermod -aG docker $USER
+    - restart VM
+ 
+    Go to the DevOps portal, and open the newly created Agent pool to add a new agent and follow below steps afrer logging back into VM.
   
+    
+  ![image](https://user-images.githubusercontent.com/116422392/200182998-fecfa0f8-28fd-48d3-a541-1adb433c38c2.png)
+
+  ![image](https://user-images.githubusercontent.com/116422392/200183045-a20e2505-0e11-4300-aeb8-2f39708b6551.png)
+
+    
+    
+    
   
 
 
