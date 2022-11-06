@@ -9,7 +9,6 @@ This project is to build and demonstarate the capabilities of CI/CD pipelines us
 please see below trello board and spreadhseet to go through the project plan and timelines.
 https://trello.com/b/VWo4Dkj5/azuredevopsproject
 
-* A link to a spreadsheet that includes the original and final project plan>
 
 ## Instructions
 
@@ -76,7 +75,7 @@ Architectural Diagram:
    
   5) Creating and deploying azure pipeline
   
-  
+      
     
    
   Successful run from azure pipeline
