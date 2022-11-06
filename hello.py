@@ -1,6 +1,6 @@
 def toyou(x):
     return "hi %s" % x
-    # this comment is just to test github actions CI
+    # this comment is just to test github actions CI/CD
 
 def add(x):
     return x + 1
