@@ -83,3 +83,6 @@ Architectural Diagram:
   ![image](https://user-images.githubusercontent.com/116422392/200184867-8e920e0d-3f53-4f18-8ff7-4de2e5c50fba.png)
 
   ![image](https://user-images.githubusercontent.com/116422392/200185839-aa88fcdb-e831-409c-aae8-594743f9d723.png)
+  
+  ![image](https://user-images.githubusercontent.com/116422392/200186241-a5df58e0-bd47-43e1-8450-22da3ea7dc83.png)
+
