@@ -9,6 +9,10 @@ This project is to build and demonstarate the capabilities of CI/CD pipelines us
 please see below trello board and spreadhseet to go through the project plan and timelines.
 https://trello.com/b/VWo4Dkj5/azuredevopsproject
 
+please see below sheet for project planning and goals
+
+https://docs.google.com/spreadsheets/d/1k26U6WBs2UZR9igQjFc7BI5bHpMfZUtyosow4PpMXAo/edit?usp=sharing
+
 
 ## Instructions
 
