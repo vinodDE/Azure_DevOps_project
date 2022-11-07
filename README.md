@@ -93,6 +93,15 @@ Architectural Diagram:
   
   ![image](https://user-images.githubusercontent.com/116422392/200186241-a5df58e0-bd47-43e1-8450-22da3ea7dc83.png)
   
+  6) Load test using locust
+  
+  - uploaded locustfile.py 
+  - pip install locust
+  - Open a browser and go to http://localhost:8089.
+  
+  ![image](https://user-images.githubusercontent.com/116422392/200396441-b184e6f1-60fc-47d8-84b9-53347491ae91.png)
+  ![image](https://user-images.githubusercontent.com/116422392/200396652-57d1b77d-f4f4-439f-95bc-5480b279b078.png)
+
   
   ## Demo
   
